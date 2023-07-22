@@ -5,13 +5,14 @@
 
 body {
     background-color: black;
-    font-family: sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 img {
-    border: 20px;
+    border: 50%;
     width: 320px;
     height: 320px;
+    border: 1px solid rgb(255, 81, 0);
 }
 
 h1 {
@@ -40,6 +41,11 @@ a {
     text-decoration: none;
     display: block;
     border-radius: 5px;
+}
+
+a:hover {
+    background-color: white;
+    color: rgb(255, 81, 0) ;
 }
 
 footer{
