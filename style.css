@@ -9,10 +9,10 @@ body {
 }
 
 img {
-    border: 50%;
+    border-radius: 40%;
     width: 320px;
     height: 320px;
-    border: 1px solid rgb(255, 81, 0);
+    border: 2px solid rgb(255, 81, 0);
 }
 
 h1 {
